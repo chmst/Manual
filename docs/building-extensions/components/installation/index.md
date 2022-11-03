@@ -1,5 +1,8 @@
-
+---
+sidebar_position: 1
+---
 Installation
+============
 ============
 Installation of a component
 :::caution TODO
